@@ -54,7 +54,7 @@ export default function Story() {
           className="relative"
         >
           <img 
-            src="./assets/images/attract.jpeg" 
+            src="./images/attract.jpeg" 
             alt="Kiran and Bhargavi in South Indian Attire" 
             className="w-full h-150 object-cover rounded-2xl shadow-2xl border-4 border-temple-gold/20"
             referrerPolicy="no-referrer"
