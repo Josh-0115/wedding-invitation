@@ -2,12 +2,12 @@ import { motion } from 'motion/react';
 import { KolamPattern, LotusFlower, FloralString, Marigold, Jasmine, BananaTree, Kalash, BrassLamp } from './Decorations';
 
 const images = [
-  "./assets/images/wedding.jpg",
-  "./assets/images/wedding-ritual-putting-ring-finger-india_8353-10048.jpg",
-  "./assets/images/ritual-with-coconut-leaves-traditional-hindu-wedding-ceremony_8353-8909.jpg",
-  "./assets/images/indian-bride-s-parents-hold-bowl-with-coconut-her-hands_8353-740.jpg",
-  "./assets/images/south-indian-wedding-featuring-happy-bride-groom_1177187-121540.jpg",
-  "./assets/images/amazing-look-traditional-ritual-with-fire_8353-10619.jpg",
+  "./images/wedding.jpg",
+  "./images/wedding-ritual-putting-ring-finger-india_8353-10048.jpg",
+  "./images/ritual-with-coconut-leaves-traditional-hindu-wedding-ceremony_8353-8909.jpg",
+  "./images/indian-bride-s-parents-hold-bowl-with-coconut-her-hands_8353-740.jpg",
+  "./images/south-indian-wedding-featuring-happy-bride-groom_1177187-121540.jpg",
+  "./images/amazing-look-traditional-ritual-with-fire_8353-10619.jpg",
 ];
 
 export default function Gallery() {
