@@ -9,7 +9,7 @@ const events = [
     date: "April 9, 2026",
     time: "1:59 AM onwards",
     location: "Mandapam, PS Peta",
-    description: "The sacred Muhurtham followed by the treditional ceremony, where we exchange our vows and tie the knot.",
+    description: "The sacred Muhurtham followed by the traditional ceremony, where we exchange our vows and tie the knot.",
     image: "./images/wedding.jpg",
     mapUrl: "https://www.google.com/maps?q=17.795417,82.923589&output=embed"
   },
