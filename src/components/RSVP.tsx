@@ -48,7 +48,7 @@ export default function RSVP() {
             Will You Join Us?
           </h2>
           <p className="text-silk-cream/70 mb-12 text-lg font-light">
-            Please let us know if you can attend by November 1, 2026.
+            Please let us know if you can attend by April 8, 2026.
           </p>
 
           {isSubmitted ? (
